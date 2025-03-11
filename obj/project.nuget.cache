@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r1/riKMMqv8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bobrat\\Documents\\projects\\c#\\fent-cart-diagram-part-2\\gruah.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bobrat\\.nuget\\packages\\desktop.robot\\1.5.0\\desktop.robot.1.5.0.nupkg.sha512",
+    "C:\\Users\\bobrat\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\bobrat\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\bobrat\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

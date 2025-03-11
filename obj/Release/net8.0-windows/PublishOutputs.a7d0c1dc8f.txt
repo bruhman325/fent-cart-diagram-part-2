@@ -1,0 +1,11 @@
+C:\Users\bobrat\Documents\projects\c#\builtKeyboardMacro\gruah.exe
+C:\Users\bobrat\Documents\projects\c#\builtKeyboardMacro\osx.os
+C:\Users\bobrat\Documents\projects\c#\builtKeyboardMacro\osx_arm.os
+C:\Users\bobrat\Documents\projects\c#\builtKeyboardMacro\x11.os
+C:\Users\bobrat\Documents\projects\c#\builtKeyboardMacro\gruah.dll
+C:\Users\bobrat\Documents\projects\c#\builtKeyboardMacro\gruah.deps.json
+C:\Users\bobrat\Documents\projects\c#\builtKeyboardMacro\gruah.runtimeconfig.json
+C:\Users\bobrat\Documents\projects\c#\builtKeyboardMacro\gruah.dll.config
+C:\Users\bobrat\Documents\projects\c#\builtKeyboardMacro\gruah.pdb
+C:\Users\bobrat\Documents\projects\c#\builtKeyboardMacro\Desktop.Robot.dll
+C:\Users\bobrat\Documents\projects\c#\builtKeyboardMacro\System.Reactive.dll
